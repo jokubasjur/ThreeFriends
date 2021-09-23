@@ -1,0 +1,7 @@
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\bin\Debug\ThreeFriends.exe.config
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\bin\Debug\ThreeFriends.exe
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\bin\Debug\ThreeFriends.pdb
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\obj\Debug\ThreeFriends.csprojAssemblyReference.cache
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\obj\Debug\ThreeFriends.csproj.CoreCompileInputs.cache
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\obj\Debug\ThreeFriends.exe
+C:\Users\jokjur1\source\repos\ThreeFriends\ThreeFriends\obj\Debug\ThreeFriends.pdb
